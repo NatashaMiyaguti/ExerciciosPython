@@ -9,7 +9,7 @@ lista = list()
 jogos = int(input('Quantos jogos você deseja fazer: '))
 for conta in range (jogos):
 
-    nu= sample(range(1, 60) , 6)
+    nu = sample(range(1, 60) , 6)
     lista.append(nu)
 
 
