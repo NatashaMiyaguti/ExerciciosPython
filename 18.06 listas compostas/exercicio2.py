@@ -18,7 +18,7 @@
 
 matriz = []
 
-
+ 
 
 for l in range (3):
     linha = []
